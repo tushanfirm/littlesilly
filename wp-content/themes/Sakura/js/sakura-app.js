@@ -341,7 +341,7 @@ function checkDarkModeCookie() {
     var dark = getCookie("dark"),
         today = new Date(),
         hour = today.getHours();
-        if ((!dark && (hour > 21 || hour < 7) ) || (dark == '1' && (hour >= 22 || hour <= 6))) {
+        if ((!dark && (hour > 22 || hour < 7) ) || (dark == '1' && (hour >= 23 || hour <= 6))) {
             setTimeout(function () {
                 $("#dark-bg").click();
             }, 100);
@@ -361,7 +361,7 @@ function checkDarkModeCookie() {
             console.log('夜间模式关闭');
     }
 }
-if (!getCookie("darkcache") && (new Date().getHours() > 21 || new Date().getHours() < 7)) {
+if (!getCookie("darkcache") && (new Date().getHours() > 22 || new Date().getHours() < 7)) {
     removeCookie("dark");
     setCookie("darkcache", "cached", 0.4);
 }
