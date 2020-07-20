@@ -3935,7 +3935,37 @@ li.feature-2 {
     }
     #video-container,
     .focusinfo {
+        /*display: none*/
+    }
+}
+
+/*移动端美化样式*/
+@media (max-width:860px) {
+  /*cusinfo .header-tou img {
+    }移动端的头像样式自己改*/
+    .center-text {
+        /*移动端文字大小*/
+        font-size: 40px;
+    }
+ 
+    .focusinfo .header-info {
+        /*移动端首页一句话*/
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        background: none !important
+    }
+ 
+    .focusinfo .header-info .top-social_v2 {
+        /*移动端社交图标*/
         display: none
+    }
+ 
+    #centerbg {
+        /*移动端背景全屏*/
+        height: 100vh;
     }
 }
 
