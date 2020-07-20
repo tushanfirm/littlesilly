@@ -3946,7 +3946,7 @@ li.feature-2 {
     }移动端的头像样式自己改*/
     .center-text {
         /*移动端文字大小*/
-        font-size: 40px;
+        font-size: 26px;
     }
  
     .focusinfo .header-info {
@@ -3965,11 +3965,6 @@ li.feature-2 {
         justify-content: center;
         align-items: center;
         margin: 15px 0px;
-    }
- 
-    #centerbg {
-        /*移动端背景全屏*/
-        height: 100vh;
     }
 }
 
