@@ -3952,7 +3952,7 @@ li.feature-2 {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        font-size: 15px;
+        font-size: 10px;
         background: none !important
     }
    .focusinfo .header-info .top-social_v2 {
@@ -3960,7 +3960,7 @@ li.feature-2 {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin: 15px 0px;
+        margin: 10px 0px;
     }
 }
 
