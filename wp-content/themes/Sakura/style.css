@@ -3952,8 +3952,15 @@ li.feature-2 {
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        font-size: 10px;
+        font-size: 15px;
         background: none !important
+    }
+   .focusinfo .header-info .top-social_v2 {
+        /*移动端社交图标*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 15px 0px;
     }
 }
 
