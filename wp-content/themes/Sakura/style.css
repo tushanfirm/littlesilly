@@ -215,7 +215,7 @@ template {
 a {
     background-color: transparent;
     text-decoration: none;
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/pointer.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/pointer.cur), auto
 }
 
 a:active,
@@ -224,7 +224,7 @@ a:hover {
 }
 
 a:active {
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/progress.ani), alias
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/progress.cur), alias
 }
 
 abbr[title] {
@@ -407,7 +407,7 @@ h6 {
 
 p {
     margin-bottom: 1.5em;
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/text.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/text.cur), auto
 }
 
 cite,
@@ -503,7 +503,7 @@ html {
 body {
     background: #fff;
     background-attachment: fixed;
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/default.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/default.cur), auto
 }
 
 blockquote:after,
@@ -1900,7 +1900,7 @@ h1.page-title.mb- {
     background-size: contain;
     -webkit-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/wait.ani), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/wait.cur), auto;
     opacity: 1
 }
 
@@ -4461,7 +4461,7 @@ body.dark .ins-section .fa{
 }
 .ins-section .ins-section-header,.ins-section .ins-search-item {
 	padding: 8px 15px;
-	cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/pointer.cur),auto;
+	cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/pointer.cur),auto;
 }
 
 .ins-section .ins-search-item .search-keyword {
@@ -4496,7 +4496,7 @@ body.dark .ins-section .fa{
 	font-size: 12px;
 	color: #9a9a9a;
 	margin: 5px 0 0 0px;
-	cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/pointer.cur),auto;
+	cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/pointer.cur),auto;
 }
 
 .ins-section .ins-search-item:hover,.ins-section .ins-search-item.active {
@@ -6182,7 +6182,7 @@ body.dark .user-menu-option a:hover {
     border: 0;
     color: #fff;
     line-height: 1;
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/wait.ani), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/wait.cur), auto;
     font-size: 14px;
     font-weight: 500;
     padding: 7px 15px;
@@ -6324,7 +6324,7 @@ input.botui-actions-text-input::-moz-focus-inner {
 }
 
 button.botui-actions-buttons-button {
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/wait.ani), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/wait.cur), auto;
     -webkit-appearance: button
 }
 
@@ -7742,7 +7742,7 @@ a.toc-link {
 .emotion-item,
 .on-hover,
 .tieba-container span {
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/wait.ani), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/wait.cur), auto
 }
 
 .alignright {
@@ -8228,7 +8228,7 @@ a.toc-link {
     padding: 2px;
     text-shadow: none;
     border-radius: 0 0 5px 5px;
-    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.4/cur/text.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/tushanfirm/littlesilly@3.5/cur/text.cur), auto
 }
 
 .highlight-wrap code[data-rel]:before {
